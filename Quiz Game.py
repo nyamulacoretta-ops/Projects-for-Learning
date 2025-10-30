@@ -28,7 +28,7 @@ if answer == 'Go':
 else:
     print('Wrong answer!')
 
-answer = input('Which JavaScript frontend framework is used at organizational level? ')
+answer = input('Which JavaScript frontend framework is used at organizational level ')
 if answer == 'Angular':
     print('Correct answer!')
     score += 1
